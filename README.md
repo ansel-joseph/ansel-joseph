@@ -8,7 +8,7 @@
 
 ## 🌌 About Me
 
-- 🔭 I'm a curious minded BCA student trustung Christ, traversing the cosmos through code. 
+- 🔭 I'm a curious minded BCA student trusting Christ, traversing the cosmos through code. 
 - 🌱 I’m currently learning **Different JavaScript Libraries**  
 - 🤝 I’m really interested in Web dev and Game dev
 - 💬 Ask me about **Cosmology, Theology, or Web Dev**  
