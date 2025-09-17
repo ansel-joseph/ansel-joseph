@@ -36,7 +36,7 @@
 
 ## 📊 Cosmic GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ansel-joseph&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ansel-joseph&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&token=PAT_1)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ansel-joseph&theme=tokyonight&hide_border=true)
 
