@@ -45,7 +45,7 @@
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ansel-joseph&theme=tokyonight&margin-w=10&margin-h=10&column=4)
+![](https://github-profile-trophy.vercel.app/?username=ansel-joseph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
