@@ -36,11 +36,10 @@
 
 ## 📊 Cosmic GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ansel-joseph&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=ansel-joseph&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ansel-joseph&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansel-joseph&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ansel-joseph&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansel-joseph&layout=compact&theme=tokyonight)
 
 ---
 
