@@ -36,7 +36,7 @@
 
 ## 📊 Cosmic GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ansel-joseph&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&token=PAT_1)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ansel-joseph&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ansel-joseph&theme=tokyonight&hide_border=true)
 
@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ansel-joseph&theme=tokyonight&margin-w=8&margin-h=8)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ansel-joseph&theme=tokyonight&margin-w=10&margin-h=10&column=4)
 
 ---
 
